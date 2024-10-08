@@ -1,0 +1,6 @@
+leche = 3
+azucar = 2
+harina = 4
+manteca = 1
+agua = 5
+jabon = 2

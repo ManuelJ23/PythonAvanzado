@@ -1,0 +1,21 @@
+heladera
+79999.99
+4
+microondas
+24539.66
+8
+licuadora
+5608.25
+13
+pava electrica
+4950.75
+22
+exprimidor electrico
+2243.33
+17
+secarropas
+321421.33
+15
+heelado
+42.3
+42
